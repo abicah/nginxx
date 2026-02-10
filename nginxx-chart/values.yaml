@@ -1,0 +1,4 @@
+replicaCount: 2
+image: nginx:1.25-alpine
+port: 80
+host: nginxx.afpa-devops.lab
